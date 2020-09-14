@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary1">#299EE3</color>
+    <color name="colorPrimaryDark1">#299EE3</color>
+    <color name="colorAccent1">#299EE3</color>
+
+
+
+    <color name="colorPrimary">#7adfb8</color>
+    <color name="colorPrimaryDark">#7adfb8</color>
+    <color name="colorAccent">#7adfb8</color>
+
+<!--    消息删除-->
+    <color name="menu_red_pressed">#FF6666</color>
+    <color name="menu_red_normal">#FF0000</color>
+
+    <!--Toast，可自定义喜欢的颜色-->
+    <color name="toast_default_text_color" tools:ignore="PrivateResource">@color/xui_config_color_white</color>
+    <color name="toast_error_color" tools:ignore="PrivateResource">@color/xui_config_color_red</color>
+    <color name="toast_info_color" tools:ignore="PrivateResource">@color/colorAccent</color>
+    <color name="toast_success_color" tools:ignore="PrivateResource">#388E3C</color>
+    <color name="toast_warning_color" tools:ignore="PrivateResource">@color/xui_config_color_waring</color>
+    <color name="toast_normal_tint_color" tools:ignore="PrivateResource">#353A3E</color>
+
+    <color name="app_color_theme_1">#EF5362</color> <!-- Grapefruit -->
+    <color name="app_color_theme_2">#FE6D4B</color> <!-- Bittersweet -->
+    <color name="app_color_theme_3">#FFCF47</color> <!-- Sunflower -->
+    <color name="app_color_theme_4">#9FD661</color> <!-- Grass -->
+    <color name="app_color_theme_5">#3FD0AD</color> <!-- Mint -->
+    <color name="app_color_theme_6">#2BBDF3</color> <!-- Aqua -->
+    <color name="app_color_theme_7">#5A9AEF</color> <!-- Blue Jeans -->
+    <color name="app_color_theme_8">#AC8FEF</color> <!-- Lavender -->
+    <color name="app_color_theme_9">#EE85C1</color> <!-- Pink Rose -->
+
+
+    <color name="est_arr_color">#FBF1E0</color>
+    <color name="act_arr_color">#DAF7F4</color>
+    <color name="act_dpt_color">#E9F1FE</color>
+    <color name="est_arr_color_text">#FEA756</color>
+    <color name="act_arr_color_text">#54C3A0</color>
+    <color name="act_dpt_color_text">#6399EF</color>
+
+    <color name="green_btn_color_normal">#FEA756</color>
+    <color name="green_btn_color_disable">#54C3A0</color>
+    <color name="green_btn_color_pressed">#6399EF</color>
+
+    <color name="bdUndone">#FC7675</color>
+    <color name="bdDone">#7CDC85</color>
+    <color name="colorBackground">#e9edff</color>
+    <color name="lightGray">#E7E7E7</color>
+    <color name="colorTheme">#fa2daef4</color>
+    <color name="colorThemeDark">#fa0996e2</color>
+    <color name="gray">#666666</color>
+    <color name="colorImageBgRed">#F4465D</color>
+    <color name="split_line">#11112233</color>
+    <color name="txBlue">#5b99fe</color>
+    <color name="titleBlue">#4990E2</color>
+    <color name="whitesmoke">#F5F5F5</color>
+    <color name="viewfinder_laser">#ffcc0000</color> <!-- Android standard ICS color -->
+    <color name="colorDBContent">#168D56</color>
+    <color name="colorBdRouterValue">#444444</color>
+    <color name="colorImageBgGreen">#52c879</color>
+    <color name="colorDownRefresh">#fa2daef4</color>
+    <color name="colorBlue">#7b9dff</color>
+    <color name="colorBlueText">#aaaaaa</color>
+    <color name="colorNavLine">#E0E0E0</color>
+
+    <color name="colorImageBgGreenDark">#0ac648</color>
+    <color name="lightBlue">#4591FA</color>
+    <color name="colorFontNormalLight">#A5A5A5</color>
+    <color name="colorImageBgOrange">#ee7c23</color>
+    <color name="colorImageBgBlue">#5A84C8</color>
+
+    <color name="textBlack">#333333</color>
+    <color name="textBlackGray">#666666</color>
+    <color name="textWhite">#F0F6FF</color>
+    <color name="textWhiteGray">#AEBDD8</color>
+    <color name="textGray">#999999</color>
+    <color name="textRed">#EA4745</color>
+    <color name="textGreen">#168D56</color>
+
+    <color name="colorRealText">#385B9D</color>
+    <color name="colorPlanText">#999999</color>
+
+    <color name="jhBackground">#FBF1E0</color>
+    <color name="sjdBackground">#DAF7F4</color>
+    <color name="sjfBackground">#E9F1FE</color>
+
+    <color name="black_overlay">#66000000</color>
+
+    <color name="focus_box_corner">#ffffffff</color>
+    <color name="focus_box_frame">#ffd6d6d6</color>
+    <color name="focus_box_mask">#60000000</color>
+    <color name="green">#00ff00</color>
+    <color name="white">#ffffff</color>
+    <color name="blue">#3A68AF</color>
+
+    <color name="color_f4">#F4F4F4</color>
+
+
+</resources>
